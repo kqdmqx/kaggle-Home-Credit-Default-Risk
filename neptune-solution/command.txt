@@ -1,0 +1,1 @@
+python main.py --train_evaluate_predict_cv --pipeline_name lightGBM --dev_mode
